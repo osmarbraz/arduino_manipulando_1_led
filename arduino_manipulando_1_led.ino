@@ -1,5 +1,5 @@
 /*
- * Acende um led externo no pino 13 e o faz piscar
+ * Acende um led externo no pino 13 e o faz piscar.
  * 
  */
 
