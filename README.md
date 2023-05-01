@@ -1,4 +1,4 @@
-# Projeto Arduíno manipular um led.
+# Projeto Arduíno manipular um LED.
 
 ## Contextualização
 
